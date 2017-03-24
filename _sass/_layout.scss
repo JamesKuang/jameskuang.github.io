@@ -3,7 +3,6 @@ body {
 	color: $font-color;
 	font-family: $font-style;
 	font-size: 1.1em;
-	line-height: 1.6;
 	-webkit-font-smoothing: antialiased;
 }
 h1,
@@ -12,7 +11,6 @@ h3 {
 	font-weight: 600;
 	color: $heading-font-color;
 	font-family: $heading-font;
-	line-height: 1.5;
 }
 h1 {
 	color: $main;

@@ -4,5 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-
-### Hi I'm James Kuang. I work at [Fieldlens](https://fieldlens.com) in NYC and on my free time I build [Shifty](https://shiftycalendar.com).
+#### I'm James Kuang.
+#### I work at [Fieldlens](https://fieldlens.com) in NYC.
+#### On my free time, I build [Shifty](https://shiftycalendar.com), a shift calendar on iOS.

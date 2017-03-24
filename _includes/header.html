@@ -2,9 +2,10 @@
 	<div class="container">
 		<nav>
 			<ul>
-				{% for page in site.pages %} {% if page.title %}
+				<!--{% for page in site.pages %} {% if page.title %}
 				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-				{% endif %} {% endfor %}
+				{% endif %} {% endfor %}-->
+				<li><a href="{{ site.url }}">{{ site.title }}</a></li>
 				<li><a href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li>
 			</ul>
 			</li>
@@ -14,5 +15,5 @@
 </aside>
 
 <header>
-	<h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
+	<h1><a href="{{ site.url }}">Hello</a></h1>
 </header>
