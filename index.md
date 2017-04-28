@@ -6,4 +6,4 @@ layout: default
 ---
 #### I'm James Kuang.
 #### I work at [Fieldlens](https://fieldlens.com) in NYC.
-#### On my free time, I build [Shifty](https://shiftycalendar.com), a shift calendar on iOS.
+#### On my free time, I build [Shifty](http://www.shiftycalendar.com), a shift calendar on iOS.
