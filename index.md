@@ -4,9 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-#### I'm James Kuang, a he/him human in NYC.
+#### I'm James Kuang and I live in NYC.
 
-#### I'm a Software Engineer at Facebook.
+#### I'm a Software Engineer at Meta.
 - [LinkedIn](https://www.linkedin.com/in/jameskuang)
 - [Github](https://github.com/JamesKuang)
 
